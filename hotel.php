@@ -70,7 +70,6 @@
                         <label class="ml-3 form-check-label" for="exampleRadios1">1000 - 2000</label>
                     </div>
                 </div>
-            </div>
         </div>
         
 
