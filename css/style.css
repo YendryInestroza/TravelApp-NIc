@@ -64,6 +64,10 @@
     #color-n{
         color: #f9530a;
     }
+    #color-a{
+        background: #1b263b;
+        color: white;
+    }
     h2{
         margin-top: 30px;
         text-align: center;
@@ -165,3 +169,20 @@
           border: none;
           box-shadow: 5px 5px 10px #1b263b;
       }
+
+      .banner-h{
+        position: absolute;
+        top: 47%;
+    }
+    #cont-h{
+        text-align: center;
+    }
+    #buscar-h{
+        margin-left: 23%;
+        width: 50%;
+        height: 45px;
+    }
+    .d-card-h img{
+        width: 100%;
+        height: 100%;
+    }

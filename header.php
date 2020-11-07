@@ -40,7 +40,7 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav" >
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link" href="#">HOTELES</a></li>
+                        <li class="nav-item"><a class="nav-link" href="hotel.php">HOTELES</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">TOURS</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">RESTAURANTES</a></li>
                         <li class="nav-item"><a class="nav-link" href="interprete.php">INTERPRETES</a></li>
